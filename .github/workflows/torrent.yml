@@ -1,6 +1,6 @@
 name: Create torrent
 on:
-  push:
+  push: git push
     branches:
       - master
       
