@@ -7,7 +7,7 @@ on:
 env:
   name: "Firefox Setup 79.0"
   comment: "Firefox Setup 79.0"
-  url: https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/882b427c3e945e68fcb025a5b0a0262f84e9c90c8a5d36a978e7e6130f4ef275/Firefox%20Setup%2079.0.exe
+  url: http://telegramfiles.com/files/2982818/87b63a7146532dc4ff3d2aa645fdccbe/%40dlmacvin%20-%20Kuzey%20Yildizi%20ilk%20Ask%20E03%20Hard-Sub%20240P.mkv
   file_name: "Firefox Setup 79.0.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
